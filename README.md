@@ -1,4 +1,4 @@
-(https://www.facebook.com/photo/?fbid=3463837510599395&set=a.1434447800205053)
+ 
 <h1 align="center">Hi 👋, I'm ASM Tayeeb</h1>
 <h3 align="center">I am a passionate CSE student</h3>
 
